@@ -4,7 +4,7 @@
   <title><![CDATA[商业和技术的完美融合]]></title>
   <link href="http://zsc1528.github.io/reprise/atom.xml" rel="self"/>
   <link href="http://zsc1528.github.io/reprise/"/>
-  <updated>2016-01-02T10:31:32+08:00</updated>
+  <updated>2016-01-02T10:46:11+08:00</updated>
   <id>http://zsc1528.github.io/reprise/</id>
   <author>
     <name><![CDATA[zsc1528]]></name>
@@ -18,20 +18,36 @@
     <link href="http://zsc1528.github.io/reprise/blog/2016/01/02/reprise-2016/"/>
     <updated>2016-01-02T10:27:30+08:00</updated>
     <id>http://zsc1528.github.io/reprise/blog/2016/01/02/reprise-2016</id>
-    <content type="html"><![CDATA[<ul>
-<li>技术思维</li>
+    <content type="html"><![CDATA[<h2>技术思维</h2>
+
+<ol>
 <li>python的快</li>
 <li>html5,ajax</li>
 <li>Canvan</li>
-<li><p>db的核心</p></li>
-<li><p>产品工程思维</p></li>
+<li>db的核心</li>
+</ol>
+
+
+<h2>产品工程思维</h2>
+
+<ol>
 <li>项目产品化、工程化</li>
-<li><p>数据化</p></li>
-<li><p>商业思维</p></li>
-<li><p>产品要接地气</p></li>
-<li><p>生活思维</p></li>
+<li>数据化</li>
+</ol>
+
+
+<h2>商业思维</h2>
+
+<ol>
+<li>产品要接地气</li>
+</ol>
+
+
+<h2>生活思维</h2>
+
+<ol>
 <li>做正确的事情</li>
-</ul>
+</ol>
 
 ]]></content>
   </entry>
