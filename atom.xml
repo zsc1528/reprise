@@ -4,7 +4,7 @@
   <title><![CDATA[商业和技术的完美融合]]></title>
   <link href="http://zsc1528.github.io/reprise/atom.xml" rel="self"/>
   <link href="http://zsc1528.github.io/reprise/"/>
-  <updated>2016-01-02T10:46:11+08:00</updated>
+  <updated>2016-01-05T16:24:11+08:00</updated>
   <id>http://zsc1528.github.io/reprise/</id>
   <author>
     <name><![CDATA[zsc1528]]></name>
@@ -21,10 +21,10 @@
     <content type="html"><![CDATA[<h2>技术思维</h2>
 
 <ol>
-<li>python的快</li>
+<li>python,django,flask</li>
 <li>html5,ajax</li>
 <li>Canvan</li>
-<li>db的核心</li>
+<li>db(mysql,redis,memcached.mongodb)</li>
 </ol>
 
 
