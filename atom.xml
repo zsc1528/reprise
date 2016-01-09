@@ -4,7 +4,7 @@
   <title><![CDATA[商业和技术的完美融合]]></title>
   <link href="http://zsc1528.github.io/reprise/atom.xml" rel="self"/>
   <link href="http://zsc1528.github.io/reprise/"/>
-  <updated>2016-01-05T16:24:11+08:00</updated>
+  <updated>2016-01-09T09:39:00+08:00</updated>
   <id>http://zsc1528.github.io/reprise/</id>
   <author>
     <name><![CDATA[zsc1528]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[在线压测工具gor]]></title>
+    <link href="http://zsc1528.github.io/reprise/blog/2016/01/08/zai-xian-ya-ce-gong-ju-gor/"/>
+    <updated>2016-01-08T19:46:36+08:00</updated>
+    <id>http://zsc1528.github.io/reprise/blog/2016/01/08/zai-xian-ya-ce-gong-ju-gor</id>
+    <content type="html"><![CDATA[<h1>gor简单介绍</h1>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reprise 2016]]></title>
@@ -40,6 +49,7 @@
 
 <ol>
 <li>产品要接地气</li>
+<li>做全球最好的产品（博客，人，工作都是产品的标签）</li>
 </ol>
 
 
